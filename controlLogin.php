@@ -1,7 +1,7 @@
 <?php /* Indica al servidor que a partir de este punto comenzara
 a interpretar codigo PHP */
 
-    require_once 'connection.php'; /* Esta declaracion
+    require_once 'connection.example.php'; /* Esta declaracion
     comprueba si el archivo ya ha sido incluido previamente,
     si si, no lo incluye de nuevo*/
 
