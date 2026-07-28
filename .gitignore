@@ -1,0 +1,13 @@
+# Dependencias y binarios de Electron/Node
+node_modules/
+dist/
+out/
+build/
+*.exe
+
+# Credenciales de la base de datos (NO subir a GitHub)
+connection.php
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
